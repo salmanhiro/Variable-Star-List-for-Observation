@@ -32,6 +32,6 @@ Example of observation was given, to update just run the selected block of of IN
 (If queries in the example was unconvenient for your observation purpose, delete the following queries or make a new .sql file for each updated queries. That was just an example.) 
 ```
 INSERT INTO `vstar` (`id`,`name`,       `RA`,         `declination`,  `observed`,`observation_date`)
-            VALUES  (NULL,"alf PsA","22 57 39.04625","-29 37 20.0533",    "N", NULL);
+            VALUES  (NULL,"alf PsA","22 57 39.04625","-29 37 20.0533",    "N",          NULL);
             ```
 
